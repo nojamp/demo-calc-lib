@@ -23,6 +23,6 @@ def divide(a, b):
     return a / b
 
 def power(a,b):
-    """THIS IS A NEW FUNCTION... Power a^b"""
+    """Power a^b"""
     return a**b
 
